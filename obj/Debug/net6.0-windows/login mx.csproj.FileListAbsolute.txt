@@ -1,0 +1,18 @@
+C:\Users\Isai Ramirez\source\repos\login mx\login mx\bin\Debug\net6.0-windows\login mx.exe
+C:\Users\Isai Ramirez\source\repos\login mx\login mx\bin\Debug\net6.0-windows\login mx.deps.json
+C:\Users\Isai Ramirez\source\repos\login mx\login mx\bin\Debug\net6.0-windows\login mx.runtimeconfig.json
+C:\Users\Isai Ramirez\source\repos\login mx\login mx\bin\Debug\net6.0-windows\login mx.dll
+C:\Users\Isai Ramirez\source\repos\login mx\login mx\bin\Debug\net6.0-windows\login mx.pdb
+C:\Users\Isai Ramirez\source\repos\login mx\login mx\obj\Debug\net6.0-windows\login mx.csproj.AssemblyReference.cache
+C:\Users\Isai Ramirez\source\repos\login mx\login mx\obj\Debug\net6.0-windows\login_mx.Form1.resources
+C:\Users\Isai Ramirez\source\repos\login mx\login mx\obj\Debug\net6.0-windows\login_mx.Properties.Resources.resources
+C:\Users\Isai Ramirez\source\repos\login mx\login mx\obj\Debug\net6.0-windows\login mx.csproj.GenerateResource.cache
+C:\Users\Isai Ramirez\source\repos\login mx\login mx\obj\Debug\net6.0-windows\login mx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isai Ramirez\source\repos\login mx\login mx\obj\Debug\net6.0-windows\login mx.AssemblyInfoInputs.cache
+C:\Users\Isai Ramirez\source\repos\login mx\login mx\obj\Debug\net6.0-windows\login mx.AssemblyInfo.cs
+C:\Users\Isai Ramirez\source\repos\login mx\login mx\obj\Debug\net6.0-windows\login mx.csproj.CoreCompileInputs.cache
+C:\Users\Isai Ramirez\source\repos\login mx\login mx\obj\Debug\net6.0-windows\login mx.dll
+C:\Users\Isai Ramirez\source\repos\login mx\login mx\obj\Debug\net6.0-windows\refint\login mx.dll
+C:\Users\Isai Ramirez\source\repos\login mx\login mx\obj\Debug\net6.0-windows\login mx.pdb
+C:\Users\Isai Ramirez\source\repos\login mx\login mx\obj\Debug\net6.0-windows\login mx.genruntimeconfig.cache
+C:\Users\Isai Ramirez\source\repos\login mx\login mx\obj\Debug\net6.0-windows\ref\login mx.dll
